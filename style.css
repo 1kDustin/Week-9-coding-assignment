@@ -1,0 +1,34 @@
+body {
+    background-color: rgb(128, 118, 107);
+}
+
+#navbar-custom {
+    color: rgb(128, 118, 107);
+}
+
+#navbar-custom:hover {
+    color: black;
+}
+
+#link-custom {
+    color: black;
+}
+
+#link-custom:hover {
+    color: rgb(128, 118, 107);
+}
+
+.title {
+    text-align: center;
+    margin-bottom: 75px;
+}
+
+#button-custom {
+    border-color: black;
+    color: rgb(128, 118, 107);
+}
+
+#button-custom:hover {
+    background-color: rgb(128, 118, 107);
+    color: blanchedalmond;
+}
